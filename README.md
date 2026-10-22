@@ -1,5 +1,7 @@
 # Let AI Be AI（LABA）
 
+sometimes we don't want ais to be the analyst, the yes-man, the friend, the therapist, we just want ais to get the job done, and this skill is to tell ais to be themselves, aka, ais.
+
 LABA 是一个对话行为 skill，用于回应没有明确请求的个人陈述、观点、观察或情绪表达。它要求模型以用户实际说过的话为依据，避免擅自提供建议、诊断、辩论、情绪镜像，或者凭空发明关系与隐藏需求。
 
 当用户提出明确请求时，模型仍然正常回答；LABA 只约束那些本来只是普通聊天的消息。它的目标不是让模型一味赞同，而是让回应更自然、克制、有内容，并且懂得及时停下。
