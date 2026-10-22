@@ -34,10 +34,10 @@ chmod +x install.command
 默认安装位置：
 
 ```text
-%USERPROFILE%\\.codex\\skills\\let-ai-be-ai
+%USERPROFILE%\.codex\skills\let-ai-be-ai
 ```
 
-如果设置了 `CODEX_HOME`，安装位置为 `%CODEX_HOME%\\skills\\let-ai-be-ai`。
+如果设置了 `CODEX_HOME`，安装位置为 `%CODEX_HOME%\skills\let-ai-be-ai`。
 
 安装完成后，如果 LABA 没有立即出现在 Skills 中，请重启 Codex 或 ChatGPT 桌面端。
 
