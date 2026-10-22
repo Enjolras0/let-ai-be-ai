@@ -1,0 +1,4 @@
+interface:
+  display_name: "让 AI 做 AI"
+  short_description: "让模型回到语言模型本职，避免擅自扮演朋友、治疗师或裁判"
+  default_prompt: "使用 $let-ai-be-ai 回应这段没有明确请求的个人陈述。"
